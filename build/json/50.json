@@ -1,0 +1,34 @@
+{
+  "id": "adb3995f3254fdea7665a696c617db84c6dd0450",
+  "name": "#50",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/50.png",
+  "edition": 50,
+  "date": 1714134635508,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 6"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Full Grown"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "VR Glasses"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

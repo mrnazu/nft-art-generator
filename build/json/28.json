@@ -1,0 +1,34 @@
+{
+  "id": "38b13d627210cf9b2f8b7253facbd7c6319fd0f7",
+  "name": "#28",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/28.png",
+  "edition": 28,
+  "date": 1714134624992,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Head Band"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    }
+  ]
+}

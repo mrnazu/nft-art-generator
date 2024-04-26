@@ -1,0 +1,34 @@
+{
+  "id": "cbed39d1cee65c577b2ffd0e0c984c9930b15e32",
+  "name": "#46",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/46.png",
+  "edition": 46,
+  "date": 1714134633918,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Pony Tails"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

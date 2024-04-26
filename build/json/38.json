@@ -1,0 +1,34 @@
+{
+  "id": "0ed60067fe48b81dfae00ec29bb3033da2aaf1d0",
+  "name": "#38",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/38.png",
+  "edition": 38,
+  "date": 1714134629158,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 6"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Black Eyes"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0502834efc0e78f15845f7f3c4ef25cbc10eadd6",
+  "name": "#7",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/7.png",
+  "edition": 7,
+  "date": 1714134616541,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 8"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Trimmed"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Purple Sunglasses"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

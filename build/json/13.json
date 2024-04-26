@@ -1,0 +1,34 @@
+{
+  "id": "3ac0bd45fe84c3ce75d09fc1491932588a435269",
+  "name": "#13",
+  "description": "John Calvin",
+  "image": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt/13.png",
+  "edition": 13,
+  "date": 1714134618399,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "White"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Body 2"
+    },
+    {
+      "trait_type": "Hats and Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes and Glasses",
+      "value": "Black Eyes"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}
