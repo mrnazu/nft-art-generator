@@ -1,4 +1,6 @@
 # NFT Art Generator
+![NFT Art](https://github.com/mrnazu/nft-art-generator/assets/108541991/dfda8f9f-6be8-4909-8050-0a99dfefeb7e)
+
 ## Getting Started:
 **Clone the repository:**
    ```bash
