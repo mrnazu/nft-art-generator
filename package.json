@@ -1,0 +1,18 @@
+{
+  "name": "nft-art-generator",
+  "version": "1.0.0",
+  "description": "This repository provides a user-friendly GUI interface for an NFT art generation script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"nft\"",
+    "\"art\"",
+    "\"web3\"",
+    "\"smart",
+    "contract\""
+  ],
+  "author": "Samuel",
+  "license": "ISC"
+}
